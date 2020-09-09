@@ -1,0 +1,1 @@
+this c program thaat copy the data from text file to another
